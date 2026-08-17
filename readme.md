@@ -541,19 +541,3 @@ I'm always interested in conversations around:
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### **Understand the data. Find the signal. Explain the why. Drive the decision.**
-
-</div>
-
-and the finished page should appear at:
-
-[github.com/Kabixr](https://github.com/Kabixr?utm_source=chatgpt.com)
-
-**GitHub only. No VS Code. No terminal.**
-
-Paste it into `README.md`, hit **Preview**, and if the rendering looks good, **Commit changes**.
