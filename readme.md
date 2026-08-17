@@ -1,14 +1,3 @@
-Oh **100%**. If this is your GitHub **landing page/profile README**, let's make it feel like an actual **Data Analyst portfolio landing page**, not a generic “Hi, I'm Kabir 👋” README.
-
-I’d make it **premium, technical, recruiter-friendly, and visually strong** — with your work taking center stage.
-
-Below is the version I'd use for **`Kabixr/Kabixr → README.md`**.
-
----
-
-# 🚀 COPY THIS ENTIRE README
-
-````markdown
 <div align="center">
 
 # KABIR PURI
