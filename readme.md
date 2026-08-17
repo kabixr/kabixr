@@ -549,44 +549,6 @@ I'm always interested in conversations around:
 ### **Understand the data. Find the signal. Explain the why. Drive the decision.**
 
 </div>
-```
-
-## 🔥 Why I like this version
-
-This one is intentionally **not just a résumé pasted into Markdown**.
-
-When someone lands on `github.com/Kabixr`, the flow is:
-
-**Who are you?**
-→ Data Analyst / Analytics Engineer
-
-**What do you actually do?**
-→ SQL, Python, BI, ETL, customer analytics
-
-**Have you done real work?**
-→ Medanta + J.P. Morgan + Brookfield
-
-**Can I see evidence?**
-→ Chinook + Zomato + Predictive Analytics
-
-**How do you think?**
-→ Business question → data → analysis → recommendation
-
-**What can you actually use?**
-→ Concrete technical stack
-
-**Can I contact you?**
-→ GitHub + LinkedIn + email
-
-That's a much stronger **landing page** than a giant badge wall.
-
-### One important correction
-
-I used your current username **`Kabixr`** everywhere.
-
-So the profile repository should be:
-
-> **`Kabixr/Kabixr`**
 
 and the finished page should appear at:
 
