@@ -2,117 +2,84 @@
 
 ### Data Analyst | Analytics Engineer
 
-Data Analytics · SQL · Python · Business Intelligence · ETL · Predictive Analytics · Machine Learning
+Data Analyst and Analytics Engineer with hands-on experience in SQL, Python, ETL pipelines, business intelligence, and data-driven decision-making. Experienced in building dashboards, KPI reporting, and analytics solutions that improve data quality, operational efficiency, and business visibility.
+
+**Gurugram, Haryana** · [kabirpuri02@gmail.com](mailto:kabirpuri02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kabirpuri02) · [GitHub](https://github.com/kabixr)
 
 ---
 
 ## 📄 Resume
 
-[**Download My CV →**](https://github.com/kabixr/Resume/raw/refs/heads/main/Kabir-Puri-Resume.pdf)
+[**⬇️ Download My CV**](https://www.dropbox.com/scl/fi/7mbmj6q11vooqh1anqfyp/KabirPuriResume.pdf?rlkey=xfnnb32he1hbajghrir3he7nx&st=cdt62mae&dl=1)
+
+[👁️ View CV in browser](https://www.dropbox.com/scl/fi/7mbmj6q11vooqh1anqfyp/KabirPuriResume.pdf?rlkey=xfnnb32he1hbajghrir3he7nx&st=cdt62mae&dl=0)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### BCG X — Data Science Virtual Experience
-**August 2026 – September 2026**
+**Senior Business Intelligence Analyst (Freelance)** · Muskan Forever Pvt. Ltd. · *Jan 2026 – Jun 2026*
+- Designed and deployed interactive BI dashboards using SQL, Power BI, and Python to monitor KPIs, enabling stakeholders to track 20+ key metrics in real time and reducing decision-making time by 40%
+- Performed end-to-end performance analytics using SQL joins, aggregations, and window functions to identify operational bottlenecks, improving process efficiency by 25%
+- Built automated ETL pipelines to consolidate data from multiple business sources and created tracking dashboards that eliminated manual reporting
+- Partnered with cross-functional teams to translate business requirements into analytical solutions, delivering 15+ custom reports
 
-- Analysed customer churn and price sensitivity through exploratory data analysis, data cleaning, feature engineering, and Random Forest modelling using Python.
-- Evaluated model performance using cross-validation and ROC-AUC, identified key churn drivers, and translated analytical findings into actionable customer retention recommendations.
+**Technical Operations Intern** · Medanta – The Medicity · *Mar 2025 – Oct 2025*
+- Architected an enterprise ETL pipeline using SQL and Python Pandas, migrating 2,000+ healthcare records at 99.5% data accuracy and reducing manual entry errors by 30%
+- Built real-time BI dashboards for performance monitoring, accelerating monthly reporting by 20% and enabling automated KPI tracking across 5+ departments
+- Optimized database queries and deduplication logic, reducing redundant records by 95%
+- Conducted UX analysis and user journey mapping, driving a 20% increase in platform adoption
 
-### British Airways — Data Science Virtual Experience
-**July 2026 – August 2026**
-
-- Developed a predictive analytics solution on 50,000+ customer booking records using Python, Pandas, and Scikit-learn to identify likely purchasers.
-- Trained a class-balanced Random Forest classifier, achieving **76.7% ROC-AUC** through stratified 5-fold cross-validation and translating model insights into customer-targeting strategies.
-
-### Muskan Forever Pvt. Ltd. — Business Intelligence Analyst
-**January 2026 – June 2026**
-
-- Led BI and performance analytics, building KPI dashboards and analysing trends to identify performance gaps and operational opportunities.
-- Delivered data-driven recommendations to stakeholders, supporting process optimisation, operational efficiency, and business decision-making.
-
-### Medanta – The Medicity — Technical Operations Intern
-**March 2025 – October 2025**
-
-- Increased platform adoption by **20%** through data-informed UX analysis and user journey mapping, identifying and eliminating onboarding friction points.
-- Built SQL/Python ETL and BI workflows for **2,000+ records**, reducing data-entry errors by **30%**, eliminating **95%** of redundant records, and accelerating reporting by **20%**.
-
-### J.P. Morgan Chase & Co. — Software Engineering Intern
-**May 2024 – June 2024**
-
-- Built a real-time stock analytics dashboard processing **1,000+ market data updates/second** with millisecond latency, enabling faster access to market signals.
-- Developed **10+ reusable ETL frameworks and data pipeline components**, improving data quality by **35%** and reducing analyst onboarding time by **20%** across 50+ team members.
-
-### Brookfield Properties — Application Developer Intern
-**June 2021 – July 2021**
-
-- Developed a Java/SQL Library Management System handling **10,000+ records**, optimising queries to reduce response time from 5 seconds to sub-second latency.
-- Implemented role-based access control across 5 departments and trained **50+ users**, achieving **100% adoption** and reducing IT support tickets by **30%**.
+**Application Developer Intern** · Brookfield Properties · *Jun 2021 – Jul 2021*
+- Engineered a Library Management System in Java and SQL handling 10,000+ asset records, reducing query response time from 5 seconds to sub-second latency
+- Implemented role-based access control (RBAC) across 5 departments with a complete audit trail
+- Led a change management and training program for 50+ end users, achieving 100% system adoption and reducing IT support tickets by 30%
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Projects
 
-### Chinook Digital Music Store — SQL Data Analysis
-
-Analysed **18K+ records across 11 relational tables** using MySQL to evaluate sales performance, customer behaviour, churn, Customer Lifetime Value (CLV), geographic performance, and product affinity using advanced SQL.
-
-### Zomato Restaurant Market Expansion Analysis
-
-Analysed **9.5K+ restaurants across 15 countries** using Excel and Pivot Tables to evaluate competition, ratings, spending, demand, and international expansion opportunities.
-
-### Predictive Analytics Models
-
-Developed regression and classification models using Python, Scikit-learn, and Pandas to forecast customer behaviour and predict churn, achieving **85–92% accuracy** across evaluated models.
-
----
-
-## 🛠️ Technical Skills
-
-**Data & Analytics:** Python, SQL, Pandas, NumPy, Advanced SQL, CTEs, Joins, Window Functions, EDA, Statistical Analysis, Data Validation
-
-**BI, Engineering & ML:** Power BI, Tableau, Excel, ETL, Data Transformation, Data Quality, Scikit-learn, Predictive Modeling, Feature Engineering, Model Evaluation
-
-**Tools & Cloud:** Git, AWS, Google Cloud Platform, Java, JavaScript
+- **[Chinook Digital Music Store – SQL Data Analysis](https://github.com/kabixr/chinook-sql-data-analysis)**
+  Analyzed 18K+ records across relational tables using advanced MySQL queries; identified customer churn risk, loyalty patterns, and CLV segmentation for retention
+- **[Zomato Restaurant Market Expansion Analysis](https://github.com/kabixr/zomato-restaurant-market-expansion-analysis)**
+  Analyzed 9.5K+ restaurants across 15 countries using Excel Pivot Tables to identify priority international markets
+- **[Titanic Survival Prediction](https://github.com/kabixr/titanic-survival-prediction)**
+  Built an ML pipeline with feature engineering on 891 records and generated a Kaggle submission
 
 ---
 
 ## 🎓 Education
 
-**Newton School**  
-Data Science & Machine Learning Program · 2026–2027  
-*Currently Pursuing*
-
-**Amity University, Noida**  
-Master of Computer Applications — AI & Machine Learning · 2023–2025
-
-**Amity University, Noida**  
-Bachelor of Computer Applications — Information Technology · 2020–2023
+- **Data Science Certification**, Newton School · *2026 – 2027 (Ongoing)*
+- **Integrated MCA (AI & Machine Learning) & BCA**, Amity University, Noida · *2020 – 2025* · CGPA: 7/10
+- **Class XII (Senior Secondary)**, The Srijan School (CBSE) · *2018 – 2020* · 85%
+- **Class X (Secondary)**, The Srijan School (CBSE) · *2016 – 2018* · 67%
 
 ---
 
-## 📊 Core Focus
+## 🏅 Certifications
 
-- Data Analytics & Business Intelligence
-- Advanced SQL & Data Transformation
-- Predictive Analytics & Machine Learning
-- ETL & Data Engineering
-- KPI Reporting & Dashboard Development
-- Business Problem Solving
-
----
-
-## 🔗 Connect With Me
-
-**LinkedIn:** [linkedin.com/in/kabirpuri02](https://www.linkedin.com/in/kabirpuri02)
-
-**GitHub:** [github.com/kabixr](https://github.com/kabixr)
-
-**Email:** [kabirpuri02@gmail.com](mailto:kabirpuri02@gmail.com)
+- AWS Certified Machine Learning – Specialty
+- Professional Certification in Data Science & Artificial Intelligence, Newton School (Jan 2026)
+- BCG X – Customer Churn & Price Sensitivity Analysis Simulation (Sep 2026 – Oct 2026)
+- British Airways – Predictive Analytics Job Simulation (Jul 2026 – Aug 2026)
+- SQL for Data Analytics with AI, Internshala (May 2024)
+- J.P. Morgan – Software Engineering Job Simulation (Jun 2022 – Jul 2022)
+- NPTEL Patent Drafting Certification
+- Digital Marketing and Media Foundations Certification
 
 ---
 
-### 📄 Looking for the full CV?
+## 🛠️ Technical Skills
 
-[**Download Kabir Puri's Resume →**](https://github.com/kabixr/Resume/raw/refs/heads/main/Kabir-Puri-Resume.pdf)
+**Languages & Data Tools:** Python, SQL, Java, JavaScript, Pandas, NumPy, Scikit-learn, Power BI, Tableau, Excel
+
+**Expertise:** Advanced SQL, ETL Pipelines, Machine Learning, Feature Engineering, BI Dashboard Development, Data Visualization, AWS, Git
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/kabirpuri02) ·
+[GitHub](https://github.com/kabixr) ·
+[kabirpuri02@gmail.com](mailto:kabirpuri02@gmail.com)
